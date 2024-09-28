@@ -18,3 +18,6 @@ There are a few things you need to consider when building modern applications. S
 
 ## Chapter 2
 > The DOM is an object representation of the HTML elements. It acts as a bridge between your code and the user interface, and has a tree-like structure with parent and child relationships.
+
+## Chapter 3
+> Imperative vs. declarative programming
