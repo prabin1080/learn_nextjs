@@ -42,3 +42,6 @@ There are three core concepts of React
 
 ## Chapter 8
 While React excels at building UI, it does take some work to independently build that UI into a fully functioning scalable application. There are also newer React features, like Server and Client Components, that require a framework.
+
+## Chapter 9
+`npm install react@latest react-dom@latest next@latest`
