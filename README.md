@@ -39,3 +39,6 @@ There are three core concepts of React
 ## Chapter 7
 > React has a set of functions called hooks. Hooks allow you to add additional logic such as state to your components.
 > You can think of state as any information in your UI that changes over time, usually triggered by user interaction.
+
+## Chapter 8
+While React excels at building UI, it does take some work to independently build that UI into a fully functioning scalable application. There are also newer React features, like Server and Client Components, that require a framework.
