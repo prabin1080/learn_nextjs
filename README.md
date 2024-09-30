@@ -24,3 +24,11 @@ There are a few things you need to consider when building modern applications. S
 
 ## Chapter 4
 > JSX is a syntax extension for JavaScript that allows you to describe your UI in a familiar HTML-like syntax.
+
+## Chapter 5
+There are three core concepts of React
+* Components
+* Props
+* State
+
+> User interfaces can be broken down into smaller building blocks called components.
