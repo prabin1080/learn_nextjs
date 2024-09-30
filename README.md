@@ -21,3 +21,6 @@ There are a few things you need to consider when building modern applications. S
 
 ## Chapter 3
 > Imperative vs. declarative programming
+
+## Chapter 4
+> JSX is a syntax extension for JavaScript that allows you to describe your UI in a familiar HTML-like syntax.
