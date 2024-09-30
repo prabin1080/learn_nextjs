@@ -32,3 +32,6 @@ There are three core concepts of React
 * State
 
 > User interfaces can be broken down into smaller building blocks called components.
+
+## Chapter 6
+> You can pass pieces of information as properties to React components. These are called props.
