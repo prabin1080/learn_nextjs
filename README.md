@@ -45,3 +45,6 @@ While React excels at building UI, it does take some work to independently build
 
 ## Chapter 9
 `npm install react@latest react-dom@latest next@latest`
+
+## Chapter 10
+> Server and Client Environments
